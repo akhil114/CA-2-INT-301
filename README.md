@@ -1,4 +1,17 @@
 # CA-2-INT-301
 Signup page using Html, css and phpmysql
 
-https://www.photobox.co.uk/my/photo/full?photo_id=502848172575
+SignUp Page
+
+![](signuppage.png)
+
+
+Logout page
+
+![](logout.png)
+
+PHP My sql database
+![](database.png)
+
+Error page
+![](errors.png)
